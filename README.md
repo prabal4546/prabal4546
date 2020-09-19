@@ -22,9 +22,9 @@ ____________________________________________________________________
 [![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)](https://github.com/prabal4546/)
 [![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/prabal4546/)
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/prabal4546/)
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/prabal4546/)
+[![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/prabal4546/)
 [![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)](https://github.com/prabal4546/)
-[![SQLLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/prabal4546/)
+[![](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/prabal4546/)
 [![R](https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://github.com/prabal4546/)
 [![Py](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)](https://github.com/prabal4546/)
 
@@ -33,18 +33,20 @@ ____________________________________________________________________
 
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=prabal4546&layout=compact)](https://github.com/prabal4546/github-readme-stats)
 
+____________________________________________________________________
+
 # Stats📊
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=prabal4546&show_icons=true&theme=onedark)
+
+![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=prabal4546.visitor-badge)
 
 # Would like to learn
 
 - ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue?style=flat-square)
 - ![NLP](https://img.shields.io/badge/-NLP%20-lightgrey?style=flat-square)
 - ![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-lightgrey?style=flat-square)
-____________________________________________________________________
 
-![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=prabal4546.visitor-badge)
 
 ____________________________________________________________________
 

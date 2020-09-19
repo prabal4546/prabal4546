@@ -37,7 +37,7 @@ ____________________________________________________________________
 
 # Stats📊
 
-![github stats](https://github-readme-stats.vercel.app/api?username=prabal4546&show_icons=true&theme=onedark)
+![github stats](https://github-readme-stats.vercel.app/api?username=prabal4546&show_icons=true&theme=onedark&hide=prs,contribs)
 
 ![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=prabal4546.visitor-badge)
 

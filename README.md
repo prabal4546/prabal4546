@@ -9,7 +9,7 @@
  
 - I am an iOS developer🔨 currently pursuing my B.Tech in Computer Science from VIT,Vellore🎓. 
 - I have worked on a variety of different apps in various categories like e-commerce,productivity,augmented reality etc (check out the repositories). 
-- Currently working on 2 app projects with Interface Builder and learning SwiftUI. 
+- Currently working on [GigMe](https://github.com/prabal4546/GigMe-2) and learning SwiftUI. 
 - I am a Tech Enthusiast and really appreciate to know about the latest and greatest in the Industry. 
 - Machine Learning and AR excite me the most about the future of the Tech Industry. 
 - Love to read books and share news about the best in tech on [![TechSociety](https://img.shields.io/badge/-TechSociety-orange?style=flat-square)](https://www.quora.com/q/javqdhaqskijcqdg).

@@ -11,7 +11,7 @@
 - I have worked on a variety of different apps in various categories like e-commerce,productivity,augmented reality etc (check out the repositories). 
 - I am a Tech Enthusiast and really appreciate to know about the latest and greatest in the Industry. 
 - Machine Learning and AR excite me the most about the future of the Tech Industry. 
-- Love to read books and share news about the best in tech on [![TechSociety](https://img.shields.io/badge/-TechSociety-orange?style=flat-square)](https://www.quora.com/q/javqdhaqskijcqdg).
+- Love to read books and share news about the best in tech on [TechSociety](https://www.quora.com/q/javqdhaqskijcqdg).
 ____________________________________________________________________
 
 # Current Projects

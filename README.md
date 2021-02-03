@@ -11,7 +11,9 @@
 - 🧑🏻‍💻 I have worked on a variety of different apps in various categories like e-commerce,productivity,augmented reality etc (check out the repositories👇🏻). 
 - 💻 I am a Tech Enthusiast and really appreciate to know about the latest and greatest in the Industry . 
 - ⚙️ Machine Learning and AR excite me the most about the future of the Tech Industry . 
-- 📘 Love to read books and share news about the best in tech on [TechSociety](https://www.quora.com/q/javqdhaqskijcqdg).
+- 📘 I like to share news about the best in tech on [TechSociety](https://www.quora.com/q/javqdhaqskijcqdg).
+- 💬 Ask me about iOS App development.
+- 🤝 Always open to collaborate on projects. 
 ____________________________________________________________________
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 

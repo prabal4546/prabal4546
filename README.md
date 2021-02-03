@@ -7,16 +7,16 @@
 
  ____________________________________________________________________
  ## Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-- I am an iOS developer🔨 currently pursuing my B.Tech in Computer Science from VIT,Vellore🎓. 
-- I have worked on a variety of different apps in various categories like e-commerce,productivity,augmented reality etc (check out the repositories). 
-- I am a Tech Enthusiast and really appreciate to know about the latest and greatest in the Industry. 
-- Machine Learning and AR excite me the most about the future of the Tech Industry. 
+- I am an iOS developer currently pursuing my B.Tech in Computer Science from VIT,Vellore🎓. 
+- I have worked on a variety of different apps in various categories like e-commerce,productivity,augmented reality etc (check out the repositories👇🏻). 
+- I am a Tech Enthusiast and really appreciate to know about the latest and greatest in the Industry💻. 
+- Machine Learning and AR excite me the most about the future of the Tech Industry⚙️. 
 - Love to read books and share news about the best in tech on [TechSociety](https://www.quora.com/q/javqdhaqskijcqdg).
 ____________________________________________________________________
 
-# Recent Projects
-- Developed the [ADG-VIT Recruitment App](https://github.com/ADG-VIT/ADG-Externals-App-iOS), available on the App Store.
-- Working on [GigMe](https://github.com/prabal4546/GigMe-2). 
+# Recent Projects🧑🏻‍💻
+- Developed the [ADG-VIT Recruitment App](https://github.com/ADG-VIT/ADG-Externals-App-iOS), available on the App Store ✅.
+- Working on [GigMe](https://github.com/prabal4546/GigMe-2)📱. 
 
 ____________________________________________________________________
 

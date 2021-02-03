@@ -6,7 +6,7 @@
 [![Quora](https://img.shields.io/badge/%20-Quora-red?style=for-the-badge&logo=quora?logoColor=red)](https://www.quora.com/profile/Prabaljit-Walia-1)
 
  ____________________________________________________________________
- 
+ ## Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 - I am an iOS developer🔨 currently pursuing my B.Tech in Computer Science from VIT,Vellore🎓. 
 - I have worked on a variety of different apps in various categories like e-commerce,productivity,augmented reality etc (check out the repositories). 
 - I am a Tech Enthusiast and really appreciate to know about the latest and greatest in the Industry. 

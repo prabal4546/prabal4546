@@ -12,7 +12,7 @@
 - 💻 I am a Tech Enthusiast and really appreciate to know about the latest and greatest in the Industry . 
 - ⚙️ Machine Learning and AR excite me the most about the future of the Tech Industry . 
 - 📘 I like to share news about the best in tech on [TechSociety](https://www.quora.com/q/javqdhaqskijcqdg).
-- 💬 Ask me about iOS App development.
+- 💬 Ask me about iOS App development and Astrophysics.
 - 🤝 Always open to collaborate on projects. 
 ____________________________________________________________________
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>

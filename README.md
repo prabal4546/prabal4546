@@ -6,7 +6,7 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/prabaljitwalia41)
 [![Quora](https://img.shields.io/badge/Quora%20-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Prabaljit-Walia-1)
  ____________________________________________________________________
-# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> &nbsp; Hello! 
+# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">&nbsp;Hello! 
 - 🎓 I am an iOS developer currently pursuing my B.Tech in Computer Science from VIT,Vellore.
 - 🧑🏻‍💻 I have worked on a variety of different apps in various categories like e-commerce,productivity,augmented reality etc (check out the repositories👇🏻). 
 - 💻 I am a Tech Enthusiast and really appreciate to know about the latest and greatest in the Industry . 

@@ -13,15 +13,16 @@
 - ⚙️ Machine Learning and AR excite me the most about the future of the Tech Industry . 
 - 📘 Love to read books and share news about the best in tech on [TechSociety](https://www.quora.com/q/javqdhaqskijcqdg).
 ____________________________________________________________________
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-# 🧑🏻‍💻 &nbsp; Recent Projects
+# 🧑🏻‍💻 &nbsp;Recent Projects
 - ✅ Developed the [ADG-VIT Recruitment App](https://github.com/ADG-VIT/ADG-Externals-App-iOS), available on the App Store.
 - 📱 Working on [GigMe](https://github.com/prabal4546/GigMe-2). 
 
 ____________________________________________________________________
 
 
- # 🖌 &nbsp; Skills  
+ # 🖌 &nbsp;Skills  
 
 [![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)](https://github.com/prabal4546/)
 [![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/prabal4546/)
@@ -33,19 +34,19 @@ ____________________________________________________________________
 [![Py](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)](https://github.com/prabal4546/)
 
 
-# 📖 &nbsp; Languages
+# 📖 &nbsp;Languages
 
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=prabal4546&layout=compact)](https://github.com/prabal4546/github-readme-stats)
 
 ____________________________________________________________________
 
-# 📊 &nbsp; Stats
+# 📊 &nbsp;Stats
 ![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=prabal4546.visitor-badge)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=prabal4546&show_icons=true)
 
 
-### Would like to learn
+### ✏️ &nbsp;Would like to learn
 
 - ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue?style=flat-square)
 - ![NLP](https://img.shields.io/badge/-NLP%20-lightgrey?style=flat-square)

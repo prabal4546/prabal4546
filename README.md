@@ -51,7 +51,7 @@ ____________________________________________________________________
 ![github stats](https://github-readme-stats.vercel.app/api?username=prabal4546&show_icons=true)
 
 
-### ✏️ &nbsp;Would like to learn
+### ✏️ &nbsp;Would like to explore
 
 - ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue?style=flat-square)
 - ![NLP](https://img.shields.io/badge/-NLP%20-lightgrey?style=flat-square)

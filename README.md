@@ -20,7 +20,6 @@ ____________________________________________________________________
 # 🧑🏻‍💻 &nbsp;Recent Projects
 - ✅ Developed the [ADG-VIT Recruitment App](https://github.com/ADG-VIT/ADG-Externals-App-iOS), available on the App Store.
 - 📱 Working on [GigMe](https://github.com/prabal4546/GigMe-2). 
-- 🔨 Building a SwiftUI App.
 
 ____________________________________________________________________
 

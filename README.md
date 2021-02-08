@@ -18,7 +18,7 @@
 ____________________________________________________________________
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-# 🧑🏻‍💻 &nbsp;Recent Projects
+# 🧑🏻‍💻&nbsp;Recent Projects
 - ✅ Developed the [ADG-VIT Recruitment App](https://github.com/ADG-VIT/ADG-Externals-App-iOS), available on the App Store.
 - 📱 Working on [GigMe](https://github.com/prabal4546/GigMe-2). 
 - 🙂 Working on a Utility App in SwiftUI. 
@@ -27,7 +27,7 @@ ____________________________________________________________________
 ____________________________________________________________________
 
 
- # 🖌 &nbsp;Skills  
+ # 🖌&nbsp;Skills  
 
 <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -42,19 +42,19 @@ ____________________________________________________________________
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 
-# 📖 &nbsp;Languages
+# 📖&nbsp;Languages
 
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=prabal4546&layout=compact)](https://github.com/prabal4546/github-readme-stats)
 
 ____________________________________________________________________
 
-# 📊 &nbsp;Stats
+# 📊&nbsp;Stats
 ![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=prabal4546.visitor-badge)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=prabal4546&show_icons=true)
 
 
-### ✏️ &nbsp;Would like to explore
+### ✏️&nbsp;Would like to explore
 
 - ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue?style=flat-square)
 - ![NLP](https://img.shields.io/badge/-NLP%20-lightgrey?style=flat-square)

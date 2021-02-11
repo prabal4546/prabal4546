@@ -14,7 +14,7 @@
 - ⚙️ Machine Learning and AR excite me the most about the future of the Tech Industry . 
 - 📘 I like to share news about the best in tech on [TechSociety](https://www.quora.com/q/javqdhaqskijcqdg).
 - 💬 Ask me about iOS App development and Astrophysics.
-- 🤝 Always open to collaborate on App development projects, reach out on [Twitter](https://twitter.com/PrabaljitW). 
+- 🤝 Open to [collaborate](mailto:prabaljitwalia4546@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20on%20GitHub.) on App development projects. 
 ____________________________________________________________________
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 

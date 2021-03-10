@@ -19,7 +19,6 @@ ____________________________________________________________________
 
 # <img src="Assets/Mario_Hello_Big.gif" width="30px">&nbsp;Recent Projects
 - ✅ Developed the [ADG-VIT Recruitment App](https://github.com/ADG-VIT/ADG-Externals-App-iOS), available on the App Store.
-- 📱 Working on [GigMe](https://github.com/prabal4546/GigMe-2). 
 - 🙂 Working on a Utility App in SwiftUI. 
 - 💻 Exploring competitive coding. 
 

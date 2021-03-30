@@ -18,7 +18,7 @@ ____________________________________________________________________
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 # <img src="Assets/Mario_Hello_Big.gif" width="30px">&nbsp;Recent Projects
-- ✨ Developed [Marvel Connect](https://prabal4546.github.io/automatic-app-landing-page/), available on the [App Store](https://apple.co/3wevMOi).
+- ⭐️ Developed [Marvel Connect](https://prabal4546.github.io/automatic-app-landing-page/), available on the [App Store](https://apple.co/3wevMOi).
 - ✅ Developed the [ADG-VIT Recruitment App](https://github.com/ADG-VIT/ADG-Externals-App-iOS), available on the App Store.
 - 🙂 Working on a Utility App in SwiftUI. 
 - 💻 Exploring competitive coding. 

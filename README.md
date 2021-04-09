@@ -55,6 +55,7 @@ ____________________________________________________________________
 ### ✏️&nbsp;Would like to explore
 
 - Machine Learning
+- NLP
 - Cloud Computing
 
 

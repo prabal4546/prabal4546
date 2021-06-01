@@ -50,8 +50,7 @@ ____________________________________________________________________
 # <img src="Assets/Medal.gif" width="30px">&nbsp;Stats
 ![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=prabal4546.visitor-badge)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=prabal4546&show_icons=true&hide=issues&count_private=true&include_all_commits=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=prabal4546&show_icons=true&hide=issues&count_private=true&include_all_commits=true" width="100%">
 
 ### ✏️&nbsp;Would like to explore
 

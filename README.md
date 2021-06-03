@@ -2,8 +2,8 @@
 ### <img src="Assets/Handshake.gif" width = "40px">&nbsp;Connect with me:
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PrabaljitW)
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabaljit-walia-5800571a0/)
+ [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>](https://prabal4546.medium.com)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:prabaljitwalia4546@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20on%20GitHub.)
-[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>](https://prabal4546.medium.com)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prabal4546/)
 [![Quora](https://img.shields.io/badge/Quora%20-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Prabaljit-Walia-1)
  ____________________________________________________________________
@@ -52,7 +52,7 @@ ____________________________________________________________________
 
 <img src="https://github-readme-stats.vercel.app/api?username=prabal4546&show_icons=true&hide=issues&count_private=true&include_all_commits=true" width="100%">
 
-### ✏️&nbsp;Would like to explore
+### 🧠&nbsp;Would like to explore
 
 - Machine Learning
 - NLP

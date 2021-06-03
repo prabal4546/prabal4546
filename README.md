@@ -1,4 +1,6 @@
 [![Header](https://raw.githubusercontent.com/prabal4546/prabal4546/master/banner-crop.gif)](https://github.com/prabal4546)
+
+![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=prabal4546.visitor-badge)
 ### <img src="Assets/Handshake.gif" width = "40px">&nbsp;Connect with me:
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PrabaljitW)
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabaljit-walia-5800571a0/)
@@ -48,7 +50,6 @@ ____________________________________________________________________
 ____________________________________________________________________
 
 # <img src="Assets/Medal.gif" width="30px">&nbsp;Stats
-![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=prabal4546.visitor-badge)
 
 <img src="https://github-readme-stats.vercel.app/api?username=prabal4546&show_icons=true&hide=issues&count_private=true&include_all_commits=true" width="100%">
 

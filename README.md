@@ -1,6 +1,5 @@
-[![Header](https://raw.githubusercontent.com/prabal4546/prabal4546/master/banner-crop.gif)](https://github.com/prabal4546)
+<p align="center"> <img src="https://raw.githubusercontent.com/prabal4546/prabal4546/master/banner-crop.gif"> </p>
 
-![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=prabal4546.visitor-badge)
 ### <img src="Assets/Handshake.gif" width = "40px">&nbsp;Connect with me:
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PrabaljitW)
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabaljit-walia-5800571a0/)
@@ -8,8 +7,10 @@
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:prabaljitwalia4546@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20on%20GitHub.)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prabal4546/)
 [![Quora](https://img.shields.io/badge/Quora%20-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Prabaljit-Walia-1)
+
+![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=prabal4546.visitor-badge)
  ____________________________________________________________________
-# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">&nbsp;Hello! <img src="Assets/Earth.gif" width = "30px">
+# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">&nbsp;Hello! 
 - 🎓 I am an iOS developer currently pursuing my B.Tech in Computer Science from VIT,Vellore.
 - 🧑🏻‍💻 I have worked on a variety of different apps in various categories like e-commerce,productivity,augmented reality etc (check out the repositories👇🏻). 
 - 💻 I am a Tech Enthusiast and really appreciate to know about the latest and greatest in the Industry . 
@@ -52,12 +53,11 @@ ____________________________________________________________________
 # <img src="Assets/Medal.gif" width="30px">&nbsp;Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=prabal4546&show_icons=true&hide=issues&count_private=true&include_all_commits=true" width="100%">
+<br />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=prabal4546&theme=graywhite&hide_border=true" >
 
-### 🧠&nbsp;Would like to explore
+<img src="https://activity-graph.herokuapp.com/graph?username=prabal4546&theme=xcode" width="60%">
 
-- Machine Learning
-- NLP
-- Cloud Computing
 
 
 ____________________________________________________________________

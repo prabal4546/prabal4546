@@ -13,7 +13,7 @@
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">&nbsp;Hello! 
 - 🎓 I am an iOS developer currently pursuing my B.Tech in Computer Science from VIT,Vellore.
 - 🧑🏻‍💻 I have worked on a variety of different apps in various categories like e-commerce,productivity,augmented reality etc (check out the repositories👇🏻). 
-- 💻 I am a Tech Enthusiast and really appreciate to know about the latest and greatest in the Industry . 
+- 💻 Also working towards creating robust tech communites & developing skills as a Microsoft Learn Student Ambassador. 
 - ⚙️ Machine Learning and AR excite me the most about the future of the Tech Industry . 
 - 📘 I like to share news about the best in tech on [TechSociety](https://www.quora.com/q/javqdhaqskijcqdg).
 - 💬 Ask me about iOS App development and Astrophysics.

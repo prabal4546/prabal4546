@@ -6,16 +6,14 @@
  [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>](https://prabal4546.medium.com)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:prabaljitwalia4546@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20on%20GitHub.)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prabal4546/)
-[![Quora](https://img.shields.io/badge/Quora%20-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Prabaljit-Walia-1)
 
 ![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=prabal4546.visitor-badge)
  ____________________________________________________________________
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">&nbsp;Hello! 
 - 🎓 I am an iOS developer currently pursuing my B.Tech in Computer Science from VIT,Vellore.
-- 🧑🏻‍💻 I have worked on a variety of different apps in various categories like e-commerce,productivity,augmented reality etc (check out the repositories👇🏻). 
+- 🧑🏻‍💻 I have worked on a variety of iOS apps with both SwiftUI & UIKit (check out the repositories👇🏻). 
 - 💻 Also working towards creating robust tech communites & developing skills as a Microsoft Learn Student Ambassador. 
 - ⚙️ Machine Learning and AR excite me the most about the future of the Tech Industry . 
-- 📘 I like to share news about the best in tech on [TechSociety](https://www.quora.com/q/javqdhaqskijcqdg).
 - 💬 Ask me about iOS App development and Astrophysics.
 - 🤝 Open to [collaborate](mailto:prabaljitwalia4546@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20on%20GitHub.) on App development projects. 
 ____________________________________________________________________
@@ -24,7 +22,7 @@ ____________________________________________________________________
 # <img src="Assets/Mario_Hello_Big.gif" width="30px">&nbsp;Recent Projects
 - ⭐️ **Developed [Marvel Connect](https://prabal4546.github.io/automatic-app-landing-page/), available on the [App Store](https://apple.co/3wevMOi)**.
 - ✅ Developed the [ADG-VIT Recruitment App](https://github.com/ADG-VIT/ADG-Externals-App-iOS), available on the App Store.
-- 🧠 Worked on [Brain Marks](https://github.com/mikaelacaron/brain-marks), available on the App Store.
+- 🧠 Working on [Brain Marks](https://github.com/mikaelacaron/brain-marks), available on the App Store.
 - 💻 Exploring competitive programming. 
 
 ____________________________________________________________________
@@ -64,4 +62,4 @@ ____________________________________________________________________
 ____________________________________________________________________
 </p>
 <br>
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"></p>

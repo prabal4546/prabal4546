@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/prabal4546/prabal4546/master/banner-crop.gif"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/prabal4546/prabal4546/master/banner-crop.gif" > </p>
 
 ### <img src="Assets/Handshake.gif" width = "40px">&nbsp;Connect with me:
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PrabaljitW)
@@ -45,13 +45,13 @@ ____________________________________________________________________
 
 # 📖&nbsp;Languages
 
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=prabal4546&layout=compact)](https://github.com/prabal4546/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabal4546&layout=compact" width="40%">
 
 ____________________________________________________________________
 
 # <img src="Assets/Medal.gif" width="30px">&nbsp;Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=prabal4546&show_icons=true&hide=issues&count_private=true&include_all_commits=true" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=prabal4546&show_icons=true&hide=issues&count_private=true&include_all_commits=true" width="75%">
 <br />
 <img src="http://github-readme-streak-stats.herokuapp.com?user=prabal4546&theme=graywhite&hide_border=true" >
 

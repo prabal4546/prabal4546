@@ -15,7 +15,7 @@
 - 💻 Also working towards creating robust tech communites & developing skills as a Microsoft Learn Student Ambassador. 
 - ⚙️ Machine Learning and AR excite me the most about the future of the Tech Industry . 
 - 💬 Ask me about iOS App development and Astrophysics.
-- 🤝 Open to [collaborate](mailto:prabaljitwalia4546@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20on%20GitHub.) on App development projects. 
+- 🤝 I'm open to internships, contract work. Mail me at [prabaljitwalia4546@gmail.com](mailto:prabaljitwalia4546@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20on%20GitHub.)
 ____________________________________________________________________
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 

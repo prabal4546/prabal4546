@@ -57,7 +57,12 @@ ____________________________________________________________________
 
 <img src="https://activity-graph.herokuapp.com/graph?username=prabal4546&theme=xcode" width="60%">
 
+____________________________________________________________________
 
+## <img src="Assets/Mario_Hello_Big.gif" width="30px">&nbsp;Recent Contributions
+- ✅[Code Contribution](https://github.com/twostraws/Unwrap/pull/200) to [Unwrap](https://github.com/twostraws/Unwrap), an iOS App available on the App Store. 
+- ✨Code Contribution to [Control Room](https://github.com/twostraws/ControlRoom), a macOS app with over 4*k* stars.
+- 📄Added a documentation update to [Kronos](https://github.com/MobileNativeFoundation/Kronos), a NTP date library in Swift. 
 
 ____________________________________________________________________
 </p>

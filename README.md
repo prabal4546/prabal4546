@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/prabal4546/prabal4546/master/banner-crop.gif" > </p>
 
-### &nbsp;Connect with me:
+### <img src="Assets/Handshake.gif" width="70" height="50">&nbsp;Connect with me:
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PrabaljitW)
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabaljit-walia-5800571a0/)
  [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>](https://prabal4546.medium.com)
@@ -9,7 +9,7 @@
 
 ![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=prabal4546.visitor-badge)
  ____________________________________________________________________
-# &nbsp;Hello! 
+# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30" height="30">&nbsp;Hello! 
 - 🎓 I am an iOS developer currently pursuing my B.Tech in Computer Science from VIT,Vellore.
 - 🧑🏻‍💻 I have worked on a variety of iOS apps with both SwiftUI & UIKit (check out the repositories👇🏻). 
 - 💻 Also working towards creating robust tech communites & developing skills as a Microsoft Learn Student Ambassador. 
@@ -28,7 +28,7 @@ ____________________________________________________________________
 ____________________________________________________________________
 
 
- # &nbsp;Skills  
+ # <img src="Assets/Rocket.gif" width="30" height="30">&nbsp;Skills  
 
 <p align="center"><img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -48,7 +48,7 @@ ____________________________________________________________________
 
 ____________________________________________________________________
 
-# &nbsp;Stats
+# <img src="Assets/Medal.gif" width="30">&nbsp;Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=prabal4546&show_icons=true&hide=stars,issues&count_private=true&include_all_commits=true" width="60%">
 <br />

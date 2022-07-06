@@ -58,7 +58,7 @@ ____________________________________________________________________
 
 ____________________________________________________________________
 
-## &nbsp;Recent Contributions
+## <img src="Assets/Mario_Hello_Big.gif" width="30">&nbsp;Recent Contributions
 - ✅[Code Contribution](https://github.com/twostraws/Unwrap/pull/200) to [Unwrap](https://github.com/twostraws/Unwrap), an iOS App available on the App Store. 
 - ✨Code Contribution to [Control Room](https://github.com/twostraws/ControlRoom), a macOS app with over 4*k* stars.
 - 📄Added a documentation update to [Kronos](https://github.com/MobileNativeFoundation/Kronos), a NTP date library in Swift. 
@@ -66,4 +66,4 @@ ____________________________________________________________________
 ____________________________________________________________________
 </p>
 <br>
-
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160" width="160"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160" width="160"></p>

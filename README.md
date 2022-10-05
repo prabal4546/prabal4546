@@ -44,7 +44,7 @@ ____________________________________________________________________
 
 # 📖&nbsp;Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabal4546&layout=compact" width="40%">
+<img src="https://github-readme-stats-prabal4546.vercel.app/api/top-langs/?username=prabal4546&layout=compact" width="40%">
 
 ____________________________________________________________________
 

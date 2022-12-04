@@ -54,7 +54,6 @@ ____________________________________________________________________
 <br />
 <img src="http://github-readme-streak-stats.herokuapp.com?user=prabal4546&theme=graywhite&hide_border=true" >
 
-<img src="https://activity-graph.herokuapp.com/graph?username=prabal4546&theme=xcode" width="60%">
 
 ____________________________________________________________________
 

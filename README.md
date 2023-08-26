@@ -10,7 +10,9 @@
 ![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=prabal4546.visitor-badge)
  ____________________________________________________________________
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30" height="30">&nbsp;Hello! 
-- 🎓 I am an iOS developer currently pursuing my B.Tech in Computer Science from VIT,Vellore.
+- 🎓 I am an iOS developer currently pursuing my Masters in Computer Science from San Jose State University,California.
+- I have completed my Bachelors from Vellore Institute of Technology, Vellore.
+- My last experience was working as a SDE (iOS) at Blinkit (Zomato).
 - 🧑🏻‍💻 I have worked on a variety of iOS apps with both SwiftUI & UIKit (check out the repositories👇🏻). 
 - 💻 Also working towards creating robust tech communites & developing skills as a Microsoft Learn Student Ambassador. 
 - ⚙️ Machine Learning and AR excite me the most about the future of the Tech Industry . 

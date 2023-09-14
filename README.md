@@ -52,7 +52,6 @@ ____________________________________________________________________
 
 # <img src="Assets/Medal.gif" width="30">&nbsp;Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=prabal4546&show_icons=true&hide=stars,issues&count_private=true&include_all_commits=true" width="60%">
 <br />
 <img src="http://github-readme-streak-stats.herokuapp.com?user=prabal4546&theme=graywhite&hide_border=true" >
 

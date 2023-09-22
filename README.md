@@ -21,7 +21,7 @@
 ____________________________________________________________________
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-# ❤️&nbsp;Recent Projects
+# ❤️&nbsp; Projects
 - ⭐️ **Developed [Marvel Connect](https://prabal4546.github.io/automatic-app-landing-page/), available on the [App Store](https://apple.co/3wevMOi)**.
 - ✅ Developed the [ADG-VIT Recruitment App](https://github.com/ADG-VIT/ADG-Externals-App-iOS), available on the App Store.
 - 🧠 Worked on [Brain Marks](https://github.com/mikaelacaron/brain-marks), available on the App Store.
@@ -58,7 +58,7 @@ ____________________________________________________________________
 
 ____________________________________________________________________
 
-## <img src="Assets/Mario_Hello_Big.gif" width="30">&nbsp;Recent Contributions
+## <img src="Assets/Mario_Hello_Big.gif" width="30">&nbsp; Contributions
 - ✅[Code Contribution](https://github.com/twostraws/Unwrap/pull/200) to [Unwrap](https://github.com/twostraws/Unwrap), an iOS App available on the App Store. 
 - ✨Code Contribution to [Control Room](https://github.com/twostraws/ControlRoom), a macOS app with over 4*k* stars.
 - 📄Added a documentation update to [Kronos](https://github.com/MobileNativeFoundation/Kronos), a NTP date library in Swift. 

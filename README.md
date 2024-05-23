@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PrabaljitW)
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabaljit-walia-5800571a0/)
  [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>](https://prabal4546.medium.com)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:prabaljitwalia4546@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20on%20GitHub.)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:minus-sniff0i@icloud.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20on%20GitHub.)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54.svg?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/prabal4546/)
 
 ![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=prabal4546.visitor-badge)

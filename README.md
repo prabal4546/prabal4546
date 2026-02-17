@@ -10,20 +10,16 @@
 ![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=prabal4546.visitor-badge)
  ____________________________________________________________________
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30" height="30">&nbsp;Hello! 
-- 🎓 I am an iOS developer currently pursuing my Masters in Computer Science from San Jose State University,California.
-- I have completed my Bachelors from Vellore Institute of Technology, Vellore.
-- My last experience was working with iOS team at eBay.
+- 🎓 I am an iOS developer currently working in the iOS team at eBay.
+- I have completed my Bachelors from Vellore Institute of Technology.
 - I also worked as a SDE (iOS) at Blinkit (Zomato).
-- 🧑🏻‍💻 I have worked on a variety of iOS apps with both SwiftUI & UIKit (check out the repositories👇🏻). 
-- 💻 Also working towards creating robust tech communites & developing skills as a Microsoft Learn Student Ambassador. 
-- ⚙️ Machine Learning and AR excite me the most about the future of the Tech Industry . 
-- 💬 Ask me about iOS App development and Astrophysics.
+- 💬 Ask me about iOS App development and Music.
 
 ____________________________________________________________________
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 # ❤️&nbsp; Projects
-- ⭐️ **Developed [Marvel Connect](https://prabal4546.github.io/automatic-app-landing-page/), available on the [App Store](https://apple.co/3wevMOi)**.
+- ⭐️ **Developed [MovieDex](https://apps.apple.com/us/app/moviedex-film-finder/id6670373298) and [Marvel Connect](https://prabal4546.github.io/automatic-app-landing-page/)**.
 - ✅ Developed the [ADG-VIT Recruitment App](https://github.com/ADG-VIT/ADG-Externals-App-iOS), available on the App Store.
 - 🧠 Worked on [Brain Marks](https://github.com/mikaelacaron/brain-marks), available on the App Store.
 - 💻 Worked on [Molt](https://github.com/ryanlintott/Molt) & [Sketch-2-Code](https://github.com/MLH-Fellowship/pod-3.1.0-Sketch2Code). 
@@ -44,12 +40,6 @@ ____________________________________________________________________
 <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-
-# 📖&nbsp;Languages
-
-<img src="https://github-readme-stats.vercel.app//api/top-langs/?username=prabal4546&layout=compact" width="40%">
-
-____________________________________________________________________
 
 # <img src="Assets/Medal.gif" width="30">&nbsp;Stats
 

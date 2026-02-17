@@ -10,7 +10,7 @@
 ![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=prabal4546.visitor-badge)
  ____________________________________________________________________
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30" height="30">&nbsp;Hello! 
-- 🎓 I am an iOS developer currently working in the iOS team at eBay.
+- I am an iOS developer currently working in the iOS team at eBay.
 - I have completed my Bachelors from Vellore Institute of Technology.
 - I also worked as a SDE (iOS) at Blinkit (Zomato).
 - 💬 Ask me about iOS App development and Music.
